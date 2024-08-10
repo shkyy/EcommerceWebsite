@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Microfrontends" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Microfrontends/home" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Microfrontends/product-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Microfrontends/root-app" vcs="Git" />
+  </component>
+</project>
